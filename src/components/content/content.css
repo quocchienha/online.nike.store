@@ -1,0 +1,27 @@
+.navbarLeft{
+font-weight: bold;
+}
+.navbarLeft:hover{
+    font-size: 1em;
+    padding-top: -20px;
+    color: rgb(224, 167, 125);
+}
+.cardBox{
+ margin-top: 20px;
+font-size: 1em;
+font-weight: bolder;
+text-align: center;
+
+
+}
+.shoe{
+
+    width: 100%;
+}
+.shoe:hover{
+    padding: 0;
+   margin-top: -20px;
+    width: 110%;
+    opacity: 0,3;
+    background-color: aqua;
+}

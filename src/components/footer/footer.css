@@ -1,0 +1,21 @@
+.footer{
+    margin-top: 50px;
+    background-color: rgb(219, 159, 124);
+    text-align: center;
+
+}
+.footerContent{
+    margin-top: 50px;
+    margin-bottom: 30px;
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;    
+   
+}
+.textFooter{
+    font-size: 0.8em;
+    font-weight:200;
+    margin-left: 150px;
+    margin-right: 150px;
+    text-align: left;
+}
